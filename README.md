@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 ## Stack
 |  |
 | ------- |
