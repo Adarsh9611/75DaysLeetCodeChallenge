@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
