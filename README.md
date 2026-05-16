@@ -136,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0176-second-highest-salary) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
