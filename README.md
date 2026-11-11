@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 ## Stack
 |  |
