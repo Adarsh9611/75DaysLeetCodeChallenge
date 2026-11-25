@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -192,9 +194,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Adarsh9611/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
